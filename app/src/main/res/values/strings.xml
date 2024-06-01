@@ -6,4 +6,9 @@
     <string name="add_ascent_menu">Přidat přelez</string>
     <string name="settings_menu">Nastavení</string>
     <string name="placeholder_image_desc">Ilustrační obrázek</string>
+    <string name="manage_scales">Správa stupnic</string>
+    <string name="manage_styles">Správa stylů</string>
+    <string name="manage_areas">Správa oblastí</string>
+    <string name="manage_sectors">Správa sektorů</string>
+    <string name="manage_users">Správa uživatelů</string>
 </resources>
