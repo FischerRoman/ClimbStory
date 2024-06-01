@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClimbStory</string>
+    <string name="header_text">ClimbStory</string>
+    <string name="home_menu">Domů</string>
+    <string name="statistics_menu">Statistiky</string>
+    <string name="add_ascent_menu">Přidat přelez</string>
+    <string name="settings_menu">Nastavení</string>
+    <string name="placeholder_image_desc">Ilustrační obrázek</string>
+</resources>
